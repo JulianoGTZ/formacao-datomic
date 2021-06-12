@@ -1,6 +1,6 @@
-# formacao-clojure-datomic
+# formacao-datomic
 
-Um repositório com as minhas implementações assistindo e fazendo as atividades da [Formação clojure da Alura](https://www.alura.com.br/formacao-datomic).
+Um repositório com as minhas implementações assistindo e fazendo as atividades da [Formação Datomic da Alura](https://www.alura.com.br/formacao-datomic).
 
 ## Tópicos cobertos
 
